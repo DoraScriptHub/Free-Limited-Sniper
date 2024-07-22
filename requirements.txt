@@ -1,0 +1,5 @@
+requests
+rgbprint
+bitarray
+discord.py
+python-socketio[client]
