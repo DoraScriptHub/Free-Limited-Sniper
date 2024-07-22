@@ -1,4 +1,0 @@
-requests
-rgbprint
-bitarray
-python-socketio[client]
